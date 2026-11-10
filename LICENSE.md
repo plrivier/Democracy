@@ -1,3 +1,22 @@
+# Copyright Notice, Legal Disclaimers & License
+
+**Work:** *Democracy Depreciated: Master Edition*  
+**Author:** P. L. Rivier  
+**Persistent Identifier (DOI):** [https://doi.org/10.5281/zenodo.24108440](https://doi.org/10.5281/zenodo.24108440)  
+**Digital Archive & Repository:** [https://github.com/plrivier/Democracy](https://github.com/plrivier/Democracy)  
+**Copyright:** © 2026 by P. L. Rivier. All moral and economic rights reserved except as granted under the public license below.  
+
+---
+
+## Legal Notice and Civic Disclaimers
+
+1. **Educational Scope and Protection of the Author:** This volume and its associated texts are published strictly for historical, educational, and philosophical inquiry to foster peaceful constitutional resilience and civic engagement within the rule of law. Nothing in this work constitutes an operational manual, tactical playbook, legal advice, or financial counsel, nor shall it be quoted out of context to incite, organize, or justify unlawful acts, civil disorder, or violent subversion against constitutional order. The author and publisher disclaim all liability for any unauthorized application, weaponization, or misinterpretation of these analytical frameworks by third parties.
+2. **Civil Defense and Threat Modeling (Chapter 14):** The Exposure Ladder, personal threat assessments, and discussions of digital privacy constitute general principles of civic prudence and historical analysis. They do not constitute formal legal counsel, cybersecurity engineering advice, or personal security directives for any specific jurisdiction, emergency, or court proceeding. Citizens are strongly encouraged to seek licensed legal counsel when navigating administrative, regulatory, or whistleblowing procedures.
+3. **Insolvency and Commercial Legislation (Chapter 4):** Comparative analysis of second-chance legislation, debt discharge, and regulated professions is presented for legislative and sociopolitical critique and does not substitute for licensed insolvency or legal practice.
+4. **Physical Print-on-Demand (POD):** Physical copies are manufactured and fulfilled upon request for a fee covering manufacturing, handling, and delivery costs via the repository's request channel.
+
+---
+
 # Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International
 
 Creative Commons Corporation ("Creative Commons") is not a law firm and does not provide legal services or legal advice. Distribution of Creative Commons public licenses does not create a lawyer-client or other relationship. Creative Commons makes its licenses and related information available on an "as-is" basis. Creative Commons gives no warranties regarding its licenses, any material licensed under their terms and conditions, or any related information. Creative Commons disclaims all liability for damages resulting from their use to the fullest extent possible.
