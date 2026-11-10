@@ -1,0 +1,12 @@
+# Ignore everything in the repository by default
+/*
+
+# Whitelist public distribution files only
+!/.gitignore
+!/README.md
+!/LICENSE.md
+!/democracy_depreciated.epub
+!/demokratiets_afskrivning.epub
+!/depreciacion_democratica.epub
+!/.github/
+!/.github/**
