@@ -143,7 +143,7 @@ In keeping with our balance-sheet methodology, political assertions must not res
 ## Substack & Discussion Seminars
 
 Follow the ongoing chapter serialization, seminar study guides, and debate essays on Substack:
-👉 **[Democracy Depreciated on Substack](https://democracydepreciated.substack.com)** *(Subscribe for free)*
+👉 **[Democracy Depreciated on Substack](https://plrivier.substack.com)** *(Subscribe for free)*
 
 ---
 
