@@ -4,6 +4,7 @@
 
 [![License: CC BY-NC-ND 4.0](https://img.shields.io/badge/License-CC_BY--NC--ND_4.0-lightgrey.svg)](https://creativecommons.org/licenses/by-nc-nd/4.0/)
 [![DOI](https://img.shields.io/badge/DOI-10.5281%2Fzenodo.24108440-blue.svg)](https://doi.org/10.5281/zenodo.24108440)
+[![Archive.org](https://img.shields.io/badge/Archive.org-democracy__depreciated-black.svg)](https://archive.org/details/democracy_depreciated)
 [![Format](https://img.shields.io/badge/Format-EPUB3%20%7C%20PDF%20(European%20B)-darkred.svg)](#instant-downloads)
 [![Languages](https://img.shields.io/badge/Languages-EN%20%7C%20ES%20%7C%20DA-navy.svg)](#instant-downloads)
 
@@ -17,13 +18,13 @@
 
 This complete, unabridged 345-page volume is distributed freely under the **Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International License (CC BY-NC-ND 4.0)**.
 
-| Language | EPUB 3 (E-readers & Tablets) | Master Archive |
+| Language | EPUB 3 (E-readers & Tablets) | Permanent Archives |
 | :--- | :--- | :--- |
-| **English** (*Democracy Depreciated*) | [📥 Download `.epub`](democracy_depreciated.epub) | [Zenodo DOI](https://doi.org/10.5281/zenodo.24108440) |
-| **Español** (*Depreciación Democrática*) | [📥 Descargar `.epub`](depreciacion_democratica.epub) | [Zenodo DOI](https://doi.org/10.5281/zenodo.24108440) |
-| **Dansk** (*Demokratiets afskrivning*) | [📥 Hent `.epub`](demokratiets_afskrivning.epub) | [Zenodo DOI](https://doi.org/10.5281/zenodo.24108440) |
+| **English** (*Democracy Depreciated*) | [📥 Download `.epub`](democracy_depreciated.epub) | [Zenodo DOI](https://doi.org/10.5281/zenodo.24108440) • [Archive.org](https://archive.org/details/democracy_depreciated) |
+| **Español** (*Depreciación Democrática*) | [📥 Descargar `.epub`](depreciacion_democratica.epub) | [Zenodo DOI](https://doi.org/10.5281/zenodo.24108440) • [Archive.org](https://archive.org/details/democracy_depreciated) |
+| **Dansk** (*Demokratiets afskrivning*) | [📥 Hent `.epub`](demokratiets_afskrivning.epub) | [Zenodo DOI](https://doi.org/10.5281/zenodo.24108440) • [Archive.org](https://archive.org/details/democracy_depreciated) |
 
-*Permanent digital archive: [DOI 10.5281/zenodo.24108440](https://doi.org/10.5281/zenodo.24108440).*
+*Permanent digital archives: [DOI 10.5281/zenodo.24108440](https://doi.org/10.5281/zenodo.24108440) & [Archive.org (Internet Archive)](https://archive.org/details/democracy_depreciated).*
 
 ---
 
